@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on the python programming language
 - 🌱 I’m currently data science and machine learning.
-- 📫 Email : **uhudhanx@gmail.com** <br> <br>
+- 📫 Email : **uhudhanx@gmail.com** <br> <br> <br>
 
 <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="" width="200" height="200" align="right">
 
@@ -29,5 +29,5 @@
 ![image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![iamge](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) <hr> <hr>
+![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) <hr>
 
