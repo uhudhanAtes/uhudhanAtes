@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Uhudhan! 👋</h1>
+<h1>Hi there, I'm Uhudhan! 👋 </h1>
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/uhudhanAtes/github-profile-trophy)
@@ -7,12 +7,10 @@
 
 - 🔭 I’m currently working on the python programming language
 - 🌱 I’m currently data science and machine learning.
-- 📫 Email : **uhudhanx@gmail.com** <br> <br> <br>
+- 📫 Email : **uhudhanx@gmail.com** <br> <br>
 
-<img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="" width="200" height="200" align="right">
-
-<h2>Technologies and Tools:</h2> <br>
-
+<h2>Technologies and Tools: <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="" width="50" height="50" align="right"> </h2> <br>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="" width="450" height="250" align="right">
 
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -29,5 +27,8 @@
 ![image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![iamge](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) <hr>
+![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) <hr><br><br><hr>
+
+
+
 
