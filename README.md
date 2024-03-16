@@ -1,12 +1,12 @@
-<h1>Hi there, I'm Uhudhan! 👋 </h1>
+<h1>Hi there, I'm Uhud! 👋 </h1>
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/uhudhanAtes/github-profile-trophy)
 
 <h2>Welcome to my profile. This is my page where I share my projects and codes ✨</h2>
 
-- 🔭 I’m currently working on the python programming language
-- 🌱 I’m currently data science and machine learning.
+- 🔭 I’m actively working on the python programming language
+- 🌱 I’m currently working in the field of machine learning, deep learning and computer vision.
 - 📫 Email : **uhudhanx@gmail.com** <br> <br>
 
 <h2>Technologies and Tools: <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="" width="320" height="240" align="right"> </h2> <br>
