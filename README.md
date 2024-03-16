@@ -9,7 +9,7 @@
 - 🌱 I’m currently working in the field of machine learning, deep learning and computer vision.
 - 📫 Email : **uhudhanx@gmail.com** <br> <br>
 
-<h2>Technologies and Tools: <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="" width="320" height="240" align="right"> </h2> <br>
+<h2>Technologies and Tools: <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="" width="300" height="250" align="right"> </h2> <br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
