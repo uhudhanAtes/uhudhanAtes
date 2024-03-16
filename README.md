@@ -9,7 +9,7 @@
 - 🌱 I’m currently data science and machine learning.
 - 📫 Email : **uhudhanx@gmail.com** <br> <br>
 
-<h2>Technologies and Tools: <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="" width="350" height="350" align="right"> </h2> <br>
+<h2>Technologies and Tools: <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="" width="250" height="200" align="right"> </h2> <br>
 
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
