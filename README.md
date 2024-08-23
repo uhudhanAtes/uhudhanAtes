@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Uhud! 👋 </h1>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=uhudhanAtes&theme=onedark)](https://github.com/uhudhanAtes/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=uhudhanAtes&theme=onedark)](https://github.com/novavision-ai/github-profile-trophy)
 
 <h2>Welcome to my profile. This is my page where I share my projects and codes ✨</h2>
 
